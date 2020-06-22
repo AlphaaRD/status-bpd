@@ -6,7 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["getVotes"],
+  "keywords": [
+    "getVotes"
+  ],
   "author": "Alpha#0009",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlphaaRD/status-bpd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AlphaaRD/status-bpd/issues"
+  },
+  "homepage": "https://github.com/AlphaaRD/status-bpd#readme"
 }
