@@ -15,7 +15,7 @@ npm install status-bpd
 const { getVotes } = require("status-bpd");
 
 // retorna o total de votos do seu bot.
-const botid = ''; // id de seu bot
+const botid = ''; // id de seu bot.
 const votes = await getVotes(botid);
 console.log(votes); // retorna o total de votos de seu bot.
 ```
