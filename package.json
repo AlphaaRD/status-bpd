@@ -1,0 +1,12 @@
+{
+  "name": "status-bpd",
+  "version": "1.0.0",
+  "description": "Um simples módulo nodejs para buscar o total de votos de seu bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["getVotes"],
+  "author": "Alpha#0009",
+  "license": "ISC"
+}
