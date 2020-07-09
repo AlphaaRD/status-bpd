@@ -12,6 +12,4 @@ async function getVotes(value) {
     }
 }
 
-module.exports = {
-    getVotes
-}
+module.exports = getVotes
